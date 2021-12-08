@@ -19,9 +19,9 @@ Our group was planning on performing a meta-analysis of all crytocurrency behavi
 All data will be pulled from Alpaca.
 
 ### Next steps
-1. Contact other group members 
-2. Assuming they like it, begin wireframing/blueprinting the project
-3. Assign roles
+- [ ] Contact other group members 
+- [ ] Assuming they like it, begin wireframing/blueprinting the project
+- [ ] Assign roles
 
 ### Members
 1. Becca
