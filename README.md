@@ -30,9 +30,6 @@ Analysis: Tommy and Hadil
 ### Vizualizations
 Line graphs, geoviz inspired graphics, Monte Carlo projections for every cryptocurrency in our scope.
 
-### User CLI - Analysis
-User can specify via their CL the scope of the analysis performed, although, for our presentation, we will analyze as much as possible.
-Top 5 performing, Top 5 most volatile, Everything, Top 5 by Market Cap
 
 ### Analysis Milestones
 - [ ] Working CLI that accepts user input
