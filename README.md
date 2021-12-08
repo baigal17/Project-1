@@ -26,3 +26,5 @@ All data will be pulled from Alpaca.
 ### Members
 1. Becca
 2. Tommy
+3. Hadil
+4. Spencer
