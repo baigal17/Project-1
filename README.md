@@ -4,8 +4,8 @@
 ---
 Our group was planning on performing a meta-analysis of all crytocurrency behavior from 2017 until present day. We plan to source all of our data from Alpaca, clean it with Pandas, and graph our results using the pyviz ecosystem. Key metrics we will be analyzing may include: 
 
-### Research Questions to be Answered
-*How have cryptocurrencies performed over time? Is it possible to responsibly maintain a portfolio of purely cryptocurrency?*
+### Meta-Analysis Research Questions to be Answered
+*How have all cryptocurrencies performed relative to each other over time?*
 
 1. Average[^1] price
 2. Average volatility
