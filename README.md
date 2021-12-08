@@ -19,9 +19,19 @@ Our group was planning on performing a meta-analysis of all crytocurrency behavi
 All data will be pulled from Alpaca.
 
 ### Next steps
-- [ ] Contact other group members 
-- [ ] Assuming they like it, begin wireframing/blueprinting the project
+- [x] Contact other group members 
+- [x] Assuming they like it, begin wireframing/blueprinting the project
 - [ ] Assign roles
+
+### Roles
+2 people on analysis and 2 on visualization.
+
+### Vizualizations
+Line graphs, geoviz inspired graphics, Monte Carlo projections for every cryptocurrency in our scope.
+
+### User CLI
+User can specify via their CL the scope of the analysis performed, although, for our presentation, we will analyze as much as possible.
+Top 5 performing, Top 5 most volatile, Everything, Top 5 by Market Cap
 
 ### Members
 1. Becca
