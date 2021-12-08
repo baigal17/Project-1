@@ -30,6 +30,8 @@ Analysis: Tommy and Hadil
 ### Vizualizations
 Line graphs, geoviz inspired graphics, Monte Carlo projections for every cryptocurrency in our scope.
 
+### User CLI 
+- [ ] View analysis results as CLI printouts, as distinct from Vizualizations 30K foot graphics
 
 ### Analysis Milestones
 - [ ] Working CLI that accepts user input
