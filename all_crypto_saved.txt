@@ -1,0 +1,65 @@
+{
+ "data": {
+  "1": {
+   "circulating_supply": 18896318,
+   "id": 1,
+   "last_updated": 1639075095,
+   "max_supply": 21000000,
+   "name": "Bitcoin",
+   "quotes": {
+    "USD": {
+     "market_cap": 904572229294,
+     "percent_change_1h": -1.41853321797678,
+     "percent_change_24h": -5.3003418277233,
+     "percent_change_7d": -16.2658453553428,
+     "percentage_change_1h": -1.41853321797678,
+     "percentage_change_24h": -5.3003418277233,
+     "percentage_change_7d": -16.2658453553428,
+     "price": 47870.0,
+     "volume_24h": 25517334495
+    }
+   },
+   "rank": 1,
+   "symbol": "BTC",
+   "total_supply": 18896318,
+   "website_slug": "bitcoin"
+  }
+ },
+ "metadata": {
+  "error": null,
+  "num_cryptocurrencies": 3105,
+  "timestamp": 1639075095
+ }
+}{
+ "data": {
+  "2": {
+   "circulating_supply": 69152521,
+   "id": 2,
+   "last_updated": 1639075124,
+   "max_supply": 84000000,
+   "name": "Litecoin",
+   "quotes": {
+    "USD": {
+     "market_cap": 10626688760,
+     "percent_change_1h": -1.58715052399842,
+     "percent_change_24h": -6.34841273825946,
+     "percent_change_7d": -26.2869157464569,
+     "percentage_change_1h": -1.58715052399842,
+     "percentage_change_24h": -6.34841273825946,
+     "percentage_change_7d": -26.2869157464569,
+     "price": 153.67,
+     "volume_24h": 1148940485
+    }
+   },
+   "rank": 15,
+   "symbol": "LTC",
+   "total_supply": 69152521,
+   "website_slug": "litecoin"
+  }
+ },
+ "metadata": {
+  "error": null,
+  "num_cryptocurrencies": 3105,
+  "timestamp": 1639075124
+ }
+}
